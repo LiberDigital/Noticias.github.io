@@ -15,7 +15,7 @@ div.sticky {
   position: sticky;
   top: 0;
 }
-`
+```
 
 An element with `position: sticky;` is positioned based on the user's scroll position.
 
