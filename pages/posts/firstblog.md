@@ -9,7 +9,7 @@ author: You
 
 ### Step 1 : Add CSS
 
-`
+```
 div.sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
