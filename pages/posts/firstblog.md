@@ -9,13 +9,13 @@ author: You
 
 ### Step 1 : Add CSS
 
-```css
+`
 div.sticky {
   position: -webkit-sticky; /* Safari */
   position: sticky;
   top: 0;
 }
-```
+`
 
 An element with `position: sticky;` is positioned based on the user's scroll position.
 
